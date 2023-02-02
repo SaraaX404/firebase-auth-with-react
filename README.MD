@@ -7,7 +7,7 @@ This project demonstrates how to perform Firebase authentication in a React appl
 1. Clone this repository and navigate to the directory:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/firebase-auth-with-react.git
+git clone https://github.com/SaraaX404/firebase-auth-with-react.git
 cd firebase-auth-with-react
 
 ```
